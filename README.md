@@ -6,7 +6,7 @@
 programming , cybersecurity, and commitment for effective contributions in a challenging environment.
 
 ### Experience
-  > **Research Intern  “Journal of High School”  $~~~~~~~~~~~~~~$             2023**
+  > **Research Intern  “Journal of High School”              2023**
    >> •	The research paper introduces an innovative Deep Learning (AI) approach utilizing data analysis 
         to identify and categorize instances of no mask, correct mask usage, and incorrect mask usage.
 >   > 
@@ -20,7 +20,7 @@ programming , cybersecurity, and commitment for effective contributions in a cha
         identify and categorize mask-related instances.  	
 >   >
 >   > 
-> **UN Delegate   “ Model United Nations”  (MUN)  $~~~~~~~~~~~~~~$            2022- 2023**
+> **UN Delegate   “ Model United Nations”  (MUN)              2022- 2023**
  >>  •	As a delegate I represented Guyana the Disarmament and International Security Committee in 
         the   Model United Nations conferences.
 > >  
@@ -31,7 +31,7 @@ programming , cybersecurity, and commitment for effective contributions in a cha
  >>  •	Collaborated on drafting resolutions and policy statements with fellow delegates.
 >   >
 >   > 
-> **Tutor   “Best Brain”   $~~~~~~~~~~~~~~$                                  2020- 2023**
+> **Tutor   “Best Brain”                                  2020- 2023**
  >>  •	Tutored students in English, French, and Math, fostering a supportive learning environment.
 > > 
  >>  •	Scheduled and conducted classes, assisting with homework.
@@ -40,25 +40,25 @@ programming , cybersecurity, and commitment for effective contributions in a cha
 >   >
 >   >     
 ### Education | Certifications | Achievements
- >>  Mentor College Secondary School $~~~~~~~~~~~~~~~~~~~~$	                       2018 - Present
+ >>  Mentor College Secondary School                        2018 - Present
 > > 
- >>  Toronto Model United Nations   $~~~~~~~~~~~~~~~~~~~~~~~~~~$                     2022 - 2023
+ >>  Toronto Model United Nations                       2022 - 2023
 > > 
- >>  Microsoft Office Specialist Certificate  $~~~~~~~~~~~~~~~~$               2021
+ >>  Microsoft Office Specialist Certificate                2021
 > > 
- >>  Honors With Distinction, Mentor College   $~~~~~~~~~$              2018 - 2022    
+ >>  Honors With Distinction, Mentor College               2018 - 2022    
 >   >
 >   > 
 ### Skills | Abilities
- >>  Programming Language $~~~~~~~~~~~~~~$ :Python, Java Script, SQL, Deep Learning(AI)
+ >>  Programming Language  :Python, Java Script, SQL, Deep Learning(AI)
 > > 
- >>  Database $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ :MS Access
+ >>  Database  :MS Access
 > > 
- >>  Concepts $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ :AI, Object-Oriented Programming, Agile
+ >>  Concepts  :AI, Object-Oriented Programming, Agile
 > > 
- >>  Statistics and Data Visualization $~~$ :PowerBI
+ >>  Statistics and Data Visualization  :PowerBI
 > > 
- >>  Sports $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ :Taekwondo , Figure Skating, Swimming  
+ >>  Sports  :Taekwondo , Figure Skating, Swimming  
 >   >
 >   >     
 ### References
