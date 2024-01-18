@@ -37,8 +37,7 @@ programming , cybersecurity, and commitment for effective contributions in a cha
  >>  •	Scheduled and conducted classes, assisting with homework.
 > > 
  >>  •	Planned lessons aligned with students' curriculum.
->   >
->   >     
+
 ### Education | Certifications | Achievements
  >>  Mentor College Secondary School                        2018 - Present
 > > 
@@ -47,8 +46,7 @@ programming , cybersecurity, and commitment for effective contributions in a cha
  >>  Microsoft Office Specialist Certificate                2021
 > > 
  >>  Honors With Distinction, Mentor College               2018 - 2022    
->   >
->   > 
+
 ### Skills | Abilities
  >>  Programming Language  :Python, Java Script, SQL, Deep Learning(AI)
 > > 
@@ -59,8 +57,7 @@ programming , cybersecurity, and commitment for effective contributions in a cha
  >>  Statistics and Data Visualization  :PowerBI
 > > 
  >>  Sports  :Taekwondo , Figure Skating, Swimming  
->   >
->   >     
+ 
 ### References
  >>  Meysam Effati, PhD (Assistant Professor, UOT)  meysameffati20@gmail.com                    
  >>  Jacob Park-Adair  (TMUN) Jacobpark@tmun.ca                          
