@@ -59,6 +59,9 @@ programming , cybersecurity, and commitment for effective contributions in a cha
  >>  Sports  :Taekwondo , Figure Skating, Swimming  
  
 ### References
- >>  Meysam Effati, PhD (Assistant Professor, UOT)  meysameffati20@gmail.com                    
+ >>  Meysam Effati, PhD (Assistant Professor, UOT)  meysameffati20@gmail.com
+> >
+ >> *[Meysam Effati](/assets/img/Meysam Effati Recommendation Letter.pdf)*
+> >                    
  >>  Jacob Park-Adair  (TMUN) Jacobpark@tmun.ca                          
  >>  Madia Sidiky (Director, Heart Comonos Community) madia.sidiky0@gmail.com
