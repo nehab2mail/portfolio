@@ -60,8 +60,11 @@ programming , cybersecurity, and commitment for effective contributions in a cha
  
 ### References
  >>  Meysam Effati, PhD (Assistant Professor, UOT)  meysameffati20@gmail.com
-> >
- >> *[Meysam Effati](/assets/img/Meysam Effati Recommendation Letter.pdf)*
+ >> *[Click for Meysam Effati Reference](/assets/img/Meysam Effati Recommendation Letter.pdf)*
 > >                    
- >>  Jacob Park-Adair  (TMUN) Jacobpark@tmun.ca                          
+ >>  Jacob Park-Adair  (TMUN) Jacobpark@tmun.ca
+>> *[Click for Jacob Park-Adair Reference](/assets/img/Jacob Park-Adair Recomendation Letter.pdf)*
+> >                       
  >>  Madia Sidiky (Director, Heart Comonos Community) madia.sidiky0@gmail.com
+>> *[Click for Madia Sidiky Reference](/assets/img/Jacob Park-Adair Recomendation Letter.pdf)*
+
