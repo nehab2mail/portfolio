@@ -18,6 +18,7 @@ programming , cybersecurity, and commitment for effective contributions in a cha
 >   >
 >   > 
 > **UN Delegate   “ Model United Nations”  (MUN)              2022- 2023**
+> 
  >>  •	As a delegate I represented Guyana the Disarmament and International Security Committee in 
         the   Model United Nations conferences.
 > >  
@@ -29,6 +30,7 @@ programming , cybersecurity, and commitment for effective contributions in a cha
 >   >
 >   > 
 > **Tutor   “Best Brain”                                  2020- 2023**
+> 
  >>  •	Tutored students in English, French, and Math, fostering a supportive learning environment.
 > > 
  >>  •	Scheduled and conducted classes, assisting with homework.
