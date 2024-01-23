@@ -10,14 +10,11 @@ programming , cybersecurity, and commitment for effective contributions in a cha
    >> •	The research paper introduces an innovative Deep Learning (AI) approach utilizing data analysis 
         to identify and categorize instances of no mask, correct mask usage, and incorrect mask usage.
 >   > 
-  >>  •	The Deep Learning (AI) method incorporates transfer learning by using pretrained VGG-16    
-        weights, reducing training time and improving detection precision.
+  >>  •	The Deep Learning (AI) method incorporates transfer learning by using pretrained VGG-16 weights, reducing training time and improving detection precision.
 >   > 
-  >>  •	Achieved an outstanding 97.43% classification accuracy by analyzing Real-World Masked Face 
-        dataset and Face Mask Detection datasets.
+  >>  •	Achieved an outstanding 97.43% classification accuracy by analyzing Real-World Masked Face dataset and Face Mask Detection datasets.
 >   > 
-  >>  •	Contributed to public health efforts during the COVID-19 pandemic, utilizing data analysis to   
-        identify and categorize mask-related instances.  	
+  >>  •	Contributed to public health efforts during the COVID-19 pandemic, utilizing data analysis to  identify and categorize mask-related instances.
 >   >
 >   > 
 > **UN Delegate   “ Model United Nations”  (MUN)              2022- 2023**
