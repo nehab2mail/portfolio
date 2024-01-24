@@ -4,6 +4,27 @@
 ### Objective
 >> Seeking a dynamic internship opportunity as a Computer Science Intern to leverage analytical skills,
 programming , cybersecurity, and commitment for effective contributions in a challenging environment.
+>>
+### References
+ >>  Meysam Effati, PhD (Assistant Professor, UOT)  meysameffati20@gmail.com
+ >> *[Click for Meysam Effati Reference](/assets/img/Meysam Effati Recommendation Letter.pdf)*
+> >                    
+>>  Madia Sidiky (Director, Heart Comonos Community) madia.sidiky0@gmail.com
+>> *[Click for Madia Sidiky Reference](/assets/img/Madia Sidiky Recomendation Letter.pdf)*
+> >                       
+>>  Jacob Park-Adair  (TMUN)                         Jacobpark@tmun.ca
+>> *[Click for Jacob Park-Adair Reference](/assets/img/Jacob Park-Adair Recomendation Letter.pdf)*
+
+### Skills | Abilities
+ >>  Programming Language  :Python, Java Script, SQL, Deep Learning(AI)
+> > 
+ >>  Database  :MS Access
+> > 
+ >>  Concepts  :AI, Object-Oriented Programming, Agile
+> > 
+ >>  Statistics and Data Visualization  :PowerBI
+> > 
+ >>  Sports  :Taekwondo , Figure Skating, Swimming  
 
 ### Experience
   > **Research Intern  “Journal of High School”              2023**  >> *[Research Paper](/assets/img/Transfer-learning-approach-for-mask-detection-by-using-extended-vgg16.pdf)*
@@ -46,24 +67,5 @@ programming , cybersecurity, and commitment for effective contributions in a cha
 > > 
  >>  Honors With Distinction, Mentor College               2018 - 2022    
 
-### Skills | Abilities
- >>  Programming Language  :Python, Java Script, SQL, Deep Learning(AI)
-> > 
- >>  Database  :MS Access
-> > 
- >>  Concepts  :AI, Object-Oriented Programming, Agile
-> > 
- >>  Statistics and Data Visualization  :PowerBI
-> > 
- >>  Sports  :Taekwondo , Figure Skating, Swimming  
- 
-### References
- >>  Meysam Effati, PhD (Assistant Professor, UOT)  meysameffati20@gmail.com
- >> *[Click for Meysam Effati Reference](/assets/img/Meysam Effati Recommendation Letter.pdf)*
-> >                    
->>  Madia Sidiky (Director, Heart Comonos Community) madia.sidiky0@gmail.com
->> *[Click for Madia Sidiky Reference](/assets/img/Madia Sidiky Recomendation Letter.pdf)*
-> >                       
->>  Jacob Park-Adair  (TMUN)                         Jacobpark@tmun.ca
->> *[Click for Jacob Park-Adair Reference](/assets/img/Jacob Park-Adair Recomendation Letter.pdf)*
+
 
