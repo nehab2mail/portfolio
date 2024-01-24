@@ -6,7 +6,7 @@
 programming , cybersecurity, and commitment for effective contributions in a challenging environment.
 
 ### Experience
-  > **Research Intern  “Journal of High School”              2023**
+  > **Research Intern  “Journal of High School”              2023**  >> *[Research Paper](/assets/img/Transfer-learning-approach-for-mask-detection-by-using-extended-vgg16.pdf)*
    >> •	The research paper introduces an innovative Deep Learning (AI) approach utilizing data analysis 
         to identify and categorize instances of no mask, correct mask usage, and incorrect mask usage.
 >   > 
