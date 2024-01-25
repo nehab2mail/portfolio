@@ -19,6 +19,8 @@ programming , cybersecurity, and commitment for effective contributions in a cha
 ### Skills | Abilities
  >>  Programming Language  :Python, Java Script, SQL, Deep Learning(AI)
 > > 
+ >>  Project Management  :MS Viso, MS Project, MS Excel, MS Word
+> > 
  >>  Database  :MS Access
 > > 
  >>  Concepts  :AI, Object-Oriented Programming, Agile
@@ -62,11 +64,11 @@ programming , cybersecurity, and commitment for effective contributions in a cha
 ### Education | Certifications | Achievements
  >>  Mentor College Secondary School                        2018 - Present
 > > 
- >>  Toronto Model United Nations                       2022 - 2023
+ >>  Toronto Model United Nations                           2022 - 2023
 > > 
  >>  Microsoft Office Specialist Certificate                2021
 > > 
- >>  Honors With Distinction, Mentor College               2018 - 2022    
+ >>  Honors With Distinction, Mentor College                2018 - 2022    
 
 
 
