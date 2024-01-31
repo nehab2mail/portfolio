@@ -16,7 +16,7 @@ programming , cybersecurity, and commitment for effective contributions in a cha
 >>  Madia Sidiky (Director, Heart Comonos Community) madia.sidiky0@gmail.com
 >> *[Click for Madia Sidiky Reference](/assets/img/Madia Sidiky Recomendation Letter.pdf)*
 > >                       
->>  Jacob Park-Adair  (TMUN)                         Jacobpark@tmun.ca
+>>  Jacob Park-Adair  (Secretary-General of Logistics,TMUN) Jacobpark@tmun.ca
 >> *[Click for Jacob Park-Adair Reference](/assets/img/Jacob Park-Adair Recomendation Letter.pdf)*
 
 ### Skills | Abilities
