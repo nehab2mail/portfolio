@@ -75,8 +75,7 @@ programming , cybersecurity, and commitment for effective contributions in a cha
  >>  •	Created fun and engaging activities to build foundational math skills in my elementary students, resulting in a 12% increase in basic arithmetic fluency in one semester.
 > >    >
 > >    __Skils:__ Teaching · Planning · Scheduling ·MS Word ·MS Excel
->   >
->   >
+
 ### Education | Certifications | Achievements
  >>  Mentor College Secondary School                        2018 - Present
 > > 
