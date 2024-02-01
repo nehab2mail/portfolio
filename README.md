@@ -55,11 +55,11 @@ programming , cybersecurity, and commitment for effective contributions in a cha
  >>  •	Engaged in public speaking and negotiated with other delegates to build consensus.
 > > 
  >>  •		Worked alongside delegates from 20 different nations, I co-drafted following three resolutions on cyber security, with 75% of my proposed amendments incorporated into the final committee documents.
-  > > >Convene a group of experts to develop a set of voluntary guidelines for responsible state behavior in  cyberspace.
+  > > > >Convene a group of experts to develop a set of voluntary guidelines for responsible state behavior in  cyberspace.
 > >    
-  > > >Facilitate dialogue and cooperation among states on cybersecurity issues.
+  > > > >Facilitate dialogue and cooperation among states on cybersecurity issues.
 > >    
-  > > >Monitor and report on the implementation of these norms.
+  > > > >Monitor and report on the implementation of these norms.
 > >    >
 > >    __Skils:__ Interpersonal Communication · Collaboration · Debate · Analytical Skills · Research Skills
 >   >
