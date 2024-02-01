@@ -7,15 +7,15 @@
 programming , cybersecurity, and commitment for effective contributions in a challenging environment.
 
 ### References
+ >>  Meysam Effati, PhD (Assistant Professor, UOT)  meysameffati20@gmail.com
+ >> *[Click for Meysam Effati Reference](/assets/img/Meysam Effati Recommendation Letter.pdf)*
+> >      
  >>  Dr.Christopher Anand (Professor, McMaster University) anandc@mcmaster.ca
  >> *[Click for Dr.Christopher Anand Reference](/assets/img/McMaster University Recomendation Letter.pdf)*
 > >  
  >>  Jacob Park-Adair  (Secretary-General of Logistics,TMUN) Jacobpark@tmun.ca
  >> *[Click for Jacob Park-Adair Reference](/assets/img/Jacob Park-Adair Recomendation Letter.pdf)*
 > >  
- >>  Meysam Effati, PhD (Assistant Professor, UOT)  meysameffati20@gmail.com
- >> *[Click for Meysam Effati Reference](/assets/img/Meysam Effati Recommendation Letter.pdf)*
-> >                    
  >>  Madia Sidiky (Director, Heart Comonos Community) madia.sidiky0@gmail.com
  >> *[Click for Madia Sidiky Reference](/assets/img/Madia Sidiky Recomendation Letter.pdf)*
 
