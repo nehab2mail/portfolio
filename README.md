@@ -7,7 +7,7 @@
 programming , cybersecurity, and commitment for effective contributions in a challenging environment.
 
 ### References
- >>  Meysam Effati, PhD (Assistant Professor, UOT) meysam.effati@utornto.ca
+ >>  Meysam Effati, PhD (Assistant Professor, Uiversity of Toronto) meysam.effati@utornto.ca
  >> *[Click for Meysam Effati Reference](/assets/img/Meysam Effati Recommendation Letter.pdf)*
 > >      
  >>  Dr.Christopher Anand (Professor, McMaster University) anandc@mcmaster.ca
