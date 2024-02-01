@@ -19,7 +19,6 @@ programming , cybersecurity, and commitment for effective contributions in a cha
  >>  Madia Sidiky (Director, Heart Comonos Community) madia.sidiky0@gmail.com
  >> *[Click for Madia Sidiky Reference](/assets/img/Madia Sidiky Recomendation Letter.pdf)*
 
-
 ### Skills | Abilities
  >>  Programming Language  :Python, Java Script, SQL, Deep Learning(AI)
 > > 
@@ -56,13 +55,14 @@ programming , cybersecurity, and commitment for effective contributions in a cha
  >>  •	Engaged in public speaking and negotiated with other delegates to build consensus.
 > > 
  >>  •		Worked alongside delegates from 20 different nations, I co-drafted following three resolutions on cyber security, with 75% of my proposed amendments incorporated into the final committee documents.
-   > > >Convene a group of experts to develop a set of voluntary guidelines for responsible state behavior in  cyberspace.
+  > > >Convene a group of experts to develop a set of voluntary guidelines for responsible state behavior in  cyberspace.
 > >    
-   > > >Facilitate dialogue and cooperation among states on cybersecurity issues.
+  > > >Facilitate dialogue and cooperation among states on cybersecurity issues.
 > >    
-   > > >Monitor and report on the implementation of these norms.
-> >    >    
+  > > >Monitor and report on the implementation of these norms.
+> >    >
 > >    __Skils:__ Interpersonal Communication · Collaboration · Debate · Analytical Skills · Research Skills
+>   >
 >   > 
 > **Tutor   “Best Brain”                                  2020- 2023**
 > 
@@ -75,7 +75,8 @@ programming , cybersecurity, and commitment for effective contributions in a cha
  >>  •	Created fun and engaging activities to build foundational math skills in my elementary students, resulting in a 12% increase in basic arithmetic fluency in one semester.
 > >    >
 > >    __Skils:__ Teaching · Planning · Scheduling ·MS Word ·MS Excel
->   > 
+>   >
+>   >
 ### Education | Certifications | Achievements
  >>  Mentor College Secondary School                        2018 - Present
 > > 
