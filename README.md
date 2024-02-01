@@ -33,7 +33,7 @@ programming , cybersecurity, and commitment for effective contributions in a cha
  >>  Sports  :Taekwondo , Figure Skating, Swimming  
 
 ### Experience
-> **Research Intern  “Journal of High School”              2023**  >> *[Research Paper](/assets/img/Transfer-learning-approach-for-mask-detection-by-using-extended-vgg16.pdf)* >> *[Code](https://github.com/nehab2mail/AI-Deep-Learning-for-Accurate-COVID-19-Face-Mask-Detection)*
+> **Research Intern  “Journal of High School”              2023**  >> *[Research Paper](/assets/img/Transfer-learning-approach-for-mask-detection-by-using-extended-vgg16.pdf)* >> *[GitHub Code](https://github.com/nehab2mail/AI-Deep-Learning-for-Accurate-COVID-19-Face-Mask-Detection)*
    >> •	The research paper introduces an innovative Deep Learning (AI) approach utilizing data analysis 
         to identify and categorize instances of no mask, correct mask usage, and incorrect mask usage.
 >   > 
