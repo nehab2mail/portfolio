@@ -43,7 +43,7 @@ programming , cybersecurity, and commitment for effective contributions in a cha
 >   > 
   >>  •	Contributed to public health efforts during the COVID-19 pandemic, utilizing data analysis to  identify and categorize mask-related instances.
 > >    >
-> >    __Skils:__ Python · Convolutional Neural Networks (CNN) · Manuscript · MS Word · MS Excel
+> >    __Skills:__ Python · Convolutional Neural Networks (CNN) · Manuscript · MS Word · MS Excel
 >   >
 >   > 
 > **Volunteer “McMaster Computing Winter CodeFest ”      2023**
@@ -56,7 +56,7 @@ programming , cybersecurity, and commitment for effective contributions in a cha
 > >  
  >>  •	Helped children navigate virtual meeting platforms and tools used during the event.
 > >    >
-> >    __Skils:__ Elm · Teaching · Resposibility · Collaboration · MS Excel
+> >    __Skills:__ Elm · Teaching · Responsibility · Collaboration · MS Excel
 >   >
 >   > 
 > **UN Delegate   “ Model United Nations”  (MUN)              2022- 2023**
@@ -74,7 +74,7 @@ programming , cybersecurity, and commitment for effective contributions in a cha
 > >    
   > > > >Monitor and report on the implementation of these norms.
 > >    >
-> >    __Skils:__ Interpersonal Communication · Collaboration · Debate · Analytical Skills · Research Skills
+> >    __Skills:__ Interpersonal Communication · Collaboration · Debate · Analytical Skills · Research Skills
 >   >
 >   > 
 > **Tutor   “Best Brain”                                  2020- 2023**
@@ -87,7 +87,7 @@ programming , cybersecurity, and commitment for effective contributions in a cha
 > > 
  >>  •	Created fun and engaging activities to build foundational math skills in my elementary students, resulting in a 12% increase in basic arithmetic fluency in one semester.
 > >    >
-> >    __Skils:__ Teaching · Planning · Scheduling ·MS Word ·MS Excel
+> >    __Skills:__ Teaching · Planning · Scheduling ·MS Word ·MS Excel
 
 ### Education | Certifications | Achievements
  >>  Mentor College Secondary School                        2018 - Present
