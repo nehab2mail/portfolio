@@ -46,6 +46,19 @@ programming , cybersecurity, and commitment for effective contributions in a cha
 > >    __Skils:__ Python · Convolutional Neural Networks (CNN) · Manuscript · MS Word · MS Excel
 >   >
 >   > 
+> **Volunteer “McMaster Computing Winter CodeFest ”      2023**
+>
+ >>  •	As a Volunteer, Guided young children (K-2) in building animated reading word games with Elm, promoting playful learning.
+> >  
+ >>  •	Assisted team of 6 young childerns  in collaborative storytelling through animation, fostering teamwork.
+> >  
+ >>  •	Introduced advanced Elm tools for crafting intricate shapes and dynamic multi-part animations, equipping young minds with new technical skills.
+> >  
+ >>  •	Helped children navigate virtual meeting platforms and tools used during the event.
+> >    >
+> >    __Skils:__ Elm · Teaching · Resposibility · Collaboration · MS Excel
+>   >
+>   > 
 > **UN Delegate   “ Model United Nations”  (MUN)              2022- 2023**
 > 
  >>  •	As a Model UN delegate, I represented Guyana on the Disarmament and International Security Committee, advocating positions in debates with an 80% alignment to official foreign policy.
