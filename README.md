@@ -4,7 +4,7 @@
 ---
 ### Objective
 >> Seeking a dynamic internship opportunity as a Computer Science Intern to leverage analytical skills,
-programming , cybersecurity, and commitment for effective contributions in a challenging environment.
+programming , AI, cybersecurity, and commitment for effective contributions in a challenging environment.
 
 ### References
  >>  Meysam Effati, PhD (Assistant Professor, University of Toronto) meysam.effati@utornto.ca
