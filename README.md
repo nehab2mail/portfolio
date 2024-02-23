@@ -1,5 +1,5 @@
 # _COMPUTER SCIENCE INTERN_
-| Tel: 647-324-9373 | nehab2mail@gmail.com | [Neharika LinkedIn](https://www.linkedin.com/in/neharikab/) | [Download RESUME](/assets/img/Neharika Resume.pdf) 
+| Tel: 647-324-9373 | nehab2mail@gmail.com | [Neharika LinkedIn](https://www.linkedin.com/in/neharikab/) | [Download RESUME](/assets/img/Neharika Resume.pdf)
 
 ---
 ### Objective
